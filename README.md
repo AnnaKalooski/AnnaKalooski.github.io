@@ -4,9 +4,6 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 ## Education
 - M.S., Business Analytics | Providence College (*August 2025*)
 - B.S., Management and Global Studies | Providence College (*May 2024*)
-
-## Projects
-- [Donor Likelihood Model in RStudio](https://github.com/AnnaKalooski/Donor_Likelihood_Model)
   
 ## Relevant Work Experience
 **Graduate Assistant @ Providence College Athletics Business Office (*August 2024 - Present*)**
@@ -20,3 +17,5 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 **Office Assistant @ Coastal Framing Inc. RI (December 2022 - Present)**
 -  Perform daily bookkeeping using Intuit QuickBooks.
 -  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.
+
+## Projects
