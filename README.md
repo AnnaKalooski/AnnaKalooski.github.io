@@ -19,4 +19,4 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 -  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.
 
 ## Projects
-- [Donor Likelihood Model in RStudio](https://github.com/AnnaKalooski/Donor_Likelihood_Model).
+- [Donor Likelihood Model in RStudio](https://github.com/AnnaKalooski/Donor_Likelihood_Model)
