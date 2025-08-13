@@ -20,4 +20,5 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 
 ## Projects
 - [Donor Likelihood Model in RStudio](https://github.com/AnnaKalooski/Donor_Likelihood_Model)
-
+  
+##
