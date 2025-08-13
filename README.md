@@ -1,5 +1,5 @@
 # Business Analytics Student
-Technical Skills: RStudio, SQL, Tableau, PowerBI
+Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 
 ## Education
 - M.S., Business Analytics | Providence College (*August 2025*)
