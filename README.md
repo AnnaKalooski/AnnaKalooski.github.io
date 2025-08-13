@@ -13,7 +13,6 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 - Prepare purchase requisitions, accounts payable vouchers, and reimbursement requests.
 - Maintain accurate financial records through daily database and spreadsheet updates.
 - Create and manage game contracts, coordinating with outside institutions. 
-
 **Office Assistant @ Coastal Framing Inc. RI (December 2022 - Present)**
 -  Perform daily bookkeeping using Intuit QuickBooks.
 -  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.
