@@ -15,7 +15,7 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI
 - Create and manage game contracts, coordinating with outside institutions. 
 
 **Office Assistant @ Coastal Framing Inc. RI (December 2022 - Present)**
--  Perform bookkeeping tasks as needed using Intuit QuickBooks.
+-  Perform daily bookkeeping using Intuit QuickBooks.
 -  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.  
 
  ## Projects
