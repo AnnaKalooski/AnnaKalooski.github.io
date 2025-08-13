@@ -16,7 +16,7 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 
 **Office Assistant @ Coastal Framing Inc. RI (December 2022 - Present)**
 -  Perform daily bookkeeping using Intuit QuickBooks.
--  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.  
+-  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.
 
 ## Projects
 
