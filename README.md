@@ -2,7 +2,7 @@
 Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 
 ## Education
-- M.S., Business Analytics ||| Providence College (*August 2025*)
+- M.S., Business Analytics | Providence College (*August 2025*)
 - B.S., Management and Global Studies | Providence College (*May 2024*)
 
 ## Relevant Work Experience
