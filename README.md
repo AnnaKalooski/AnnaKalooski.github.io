@@ -6,7 +6,7 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 - B.S., Management and Global Studies | Providence College (*May 2024*)
 
 ## Relevant Work Experience
-**Graduate Assistant @ Providence College Athletics Business Office (*August 2024 - Present*)**
+**Graduate Assistant @ Providence College Athletics Business Office (*August 2024 - August 2025*)**
 - Provide detailed financial analysis and support to the Senior Associate AD for Revenue Generation and Associate Athletic Director for Business.
 - Complete ad hoc data analytics projects for the Associate Athletic Director for Business and Director of Business Operations.
 - Reconcile credit card statements monthly for all athletic staff members, ensuring accuracy and compliance.
