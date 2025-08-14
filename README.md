@@ -1,4 +1,4 @@
-## Business Analytics Student
+## Business Analyst
 Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 
 ## Education
