@@ -18,10 +18,10 @@ Technical Skills: RStudio, SQL, Tableau, PowerBI, Excel, Python, Orange, MongoDB
 -  Perform daily bookkeeping using Intuit QuickBooks.
 -  Propose and implement suggestions to make the company’s day-to-day operations (invoicing, job estimates, etc.) more efficient and organized.
 
-## Projects
+## Data Analytics Projects
 - [Donor Likelihood Model in RStudio](https://github.com/AnnaKalooski/Donor_Likelihood_Model)
 - [Gaming Console Sales Comparison in Tableau](https://github.com/AnnaKalooski/Gaming_Console_Sales_Comparison)
-- More coming soon...
+- [NWSL SQL Database](https://github.com/AnnaKalooski/NWSL_SQL_Database)
 
 
 
